@@ -1,10 +1,10 @@
-# ATools - 永恒之塔2 多功能工具箱
+# ATower · 永恒之塔2 工具箱
 
 > 专为《永恒之塔2》玩家打造的桌面效率工具
 
 ## ✨ 产品简介
 
-ATools 是面向《永恒之塔2》玩家的桌面工具箱，提供日常效率辅助与战斗数据分析，
+ATower（艾塔）是面向《永恒之塔2》玩家的桌面工具箱，提供日常效率辅助与战斗数据分析，
 覆盖角色管理、副本攻略、军团情报、伤害统计等高频场景。
 
 ## 📦 核心功能
@@ -17,17 +17,19 @@ ATools 是面向《永恒之塔2》玩家的桌面工具箱，提供日常效率
 
 ## 📥 下载安装
 
-前往 [发布](https://github.com/ChenLihsiang6/ATools/releases) 页面，下载最新版本安装包。
+前往 [发布](https://github.com/ChenLihsiang6/ATower/releases) 页面，下载最新版本安装包。
+
+安装后首次启动需要粘贴激活码，绑定机器后即可使用。
 
 ## 💖 支持开发
 
-如果你想支持 ATools 持续迭代、跟进游戏版本更新，欢迎前往爱发电赞助：
+如果你想支持 ATower 持续迭代、跟进游戏版本更新，欢迎前往爱发电赞助：
 
 👉 https://afdian.com/a/Atools
 
 ## 📝 更新日志
 
-查看 [Releases](https://github.com/ChenLihsiang6/ATools/releases) 内每个版本的更新说明。
+查看 [Releases](https://github.com/ChenLihsiang6/ATower/releases) 内每个版本的更新说明。
 
 ## ⚠️ 免责声明
 
